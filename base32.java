@@ -1,4 +1,4 @@
-public class Main {
+public class base32 {
 
     private static final String BASE32_ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567";
 
